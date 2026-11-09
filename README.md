@@ -3,7 +3,7 @@
 A career-search workspace to organize applications, stages and job-search progress.
 
 ## Current milestone
-Responsive React + TypeScript frontend with application creation, pipeline stages, search, stage counts and browser-local persistence. Demo records are illustrative only.
+Responsive React + TypeScript frontend with application creation, pipeline stages, search, stage counts, browser-local persistence and JSON data export. Demo records are illustrative only.
 
 ## Run locally
 
